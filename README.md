@@ -118,10 +118,6 @@ mAP@50
 Model	Training Time	Inference Time
 LEViT–UNet++	~41 mins	10 ms/image
 Swin-LW UNet++	~46 mins	15 ms/image
-### 📈 Statistical Validation
-Model	Accuracy	Dice	IoU
-LEViT–UNet++	0.9906 ± 0.0005	0.7970 ± 0.0309	0.6636 ± 0.0419
-Swin-LW UNet++	0.9822 ± 0.0002	0.4938 ± 0.0258	0.3282 ± 0.0230
 ### 🚀 Future Work
 Improve Swin model efficiency
 Train on larger datasets
